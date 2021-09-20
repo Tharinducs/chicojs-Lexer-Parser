@@ -1,2 +1,2 @@
 # chicojs-Lexer-Parser
-Lexar and Parser
+Lexar and Parser Chico
